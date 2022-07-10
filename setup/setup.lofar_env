@@ -1,0 +1,4 @@
+# SSW environmental setup for LOFAR - Eduard @ GLasgow 
+
+setenv LOFAR_RESPONSE $SSW_LOFAR/response
+setenv LOFAR_DATA $SSW_LOFAR/data

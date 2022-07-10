@@ -1,0 +1,5 @@
+; IDL_STARTUP for LOFAR
+; Version 1.0 - Eduard @Glasgow
+
+set_logenv,'LOFAR_RESPONSE',concat_dir('$SSW_LOFAR','response')
+
