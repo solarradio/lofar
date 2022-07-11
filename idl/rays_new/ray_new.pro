@@ -15,7 +15,7 @@ pro ray_new, eps=eps, anis=anis, R_init=R_init, asym=asym, f_ratio=f_ratio
 ; The code is updated Dec 7, 2018 
 ; to include 1) new imaging & 2) only isotropic scattering 
 ; Updated April, 2019 to include anisotropic data 
-; Last modified to improve output: September 4, 2019 by Eduard@Glasgow
+; Last modified to improve output: September 4, 2019 and 2020 by Eduard@Glasgow
 ; changed arrays rx,ry,rz to double for sintheta calculations near angle=0, September 6, 2019 by Eduard@Glasgow
 ;
 ;dir_file='D:\idl\ray_tracing'  
